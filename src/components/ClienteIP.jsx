@@ -1,4 +1,3 @@
-
 import InformacionIP from './InformacionIP'
 import '../App.css'
 

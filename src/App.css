@@ -60,6 +60,18 @@ body{
 }
 
 
+
+input {
+  padding: 5px;
+  background-color: #282c34;
+  color: white;
+  margin-right: 5px;
+}
+
+
+
+
+
 /* .App {
   text-align: center;
 }
